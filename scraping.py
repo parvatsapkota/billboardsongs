@@ -2,14 +2,12 @@ import urllib.request
 import re
 import webbrowser
 import json
-import selenium.webdriver as webdriver
-from selenium.webdriver.common.keys import Keys
+# import selenium.webdriver as webdriver
+# from selenium.webdriver.common.keys import Keys
 
-import time
 from bs4 import BeautifulSoup
 import requests
 import time
-import datetime
 
 
 import smtplib
